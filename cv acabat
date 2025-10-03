@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Curriculum</title>
+</head>
+<body>
+    <h1 id="titol" >CV <u>MARTA PERELLÓ SALOM</u></h1>
+
+  
+    <img src="IMG_6124.jpg" height="170">
+    <ol type="I">
+
+    <li><h2></b>Informació personal</b></h2></li>
+    <p> <i>Nom:</i>Marta Perelló Salom<br>
+      <i>Data de Neixament:</i>17/10/05<br>
+        <i>Localitat:</i>Binissalem<br>
+          <i>Codi Postal:</i>07350<br>
+            <i>Carrer:</i>Carrer de Sa Creu n32 <p>
+
+    <li><h2>Resum profesional</h2></li>
+    <p>Tècnica en desenvolupament d’aplicacions multiplataforma amb especial interès en la seguretat informàtica. Persona responsable i resolutiva.<br>Experiència en entorns hospitalaris i empreses tecnològiques.<p>
+
+    <li><h2>Experiència laboral</h2></li>
+    <table border="2" cellpadding="10" cellspacing= "4">
+      <tr>
+        <td>Companyia</td)
+        <td> / Anys</td>
+      </tr> 
+      <tr> 
+       <td>IT Son Espases</td>
+       <td>2</td>
+      </tr>
+       <td>Google</td>
+       <td>1</td>
+     </tr>
+   </table>    
+   <li><h2>Educació i formació</h2></li>
+    <table border="2" cellpadding="7" cellspacing= "6">
+      <tr>
+        <td> Formació
+      </tr>
+      <tr>
+        <td>Secundàraia i Batxillerat Cientific</td>
+        <td>IES Binissalem</td>
+      </tr>
+      <tr>
+        <td>Grau Superior DAM</td>
+        <td>Pau Cases Noves</td>
+      </tr>
+      <tr>
+        <td>Especialització Ciberseguretat</td>
+        <td>Borja Moll</td>
+      </tr>
+   </table>    
+
+    
+
+
+  <li><h2>Habilitat tècniques</h2></li>
+  <ul type="1">  
+    <li>Programació en Java i Python.</li><br><li>Gestió de bases de dades.(MySQ i Oracle)</li>.<br><li>Administració bàsica de xarxes i sistemes.</li><br><li>Coneixements de seguritat informàtica.</li>
+  </ul>  
+
+  <li><h2>Habilitats idiomes</h2></li>
+   <ul type="1">  
+    <li>Català: Natiu.</li><br><li>Castellà: Avançat.</li><br><li>Angles: C1.</li>
+  </ul>  
+
+    <li><h2>Certificacions i cursos</h2></li>
+    <p>Curs de Ciberseguretat bàsica (Cisco Academy)<br> Taller de Desenvolupament d'Applicacions Mòbils.<p>
+
+    <li><h2>Enllaços de interés</h2></li>
+    <a href="https://es.linkedin.com/?mcid=6968657504633266178&src=go-pa&trk=sem-ga_campid.18146679037_asid.140850334975_crid.694860685343_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9198021&cid=&gclsrc=aw.ds&gad_source=1&gad_campaignid=18146679037&gclid=Cj0KCQjwovPGBhDxARIsAFhgkwTUHCqyHZCgIxUFscdYwHy1-0Oc0iRtBDSslXFI7oGVGERAo0O1btEaAr6iEALw_wcB">Accés a Linkeldn </a>
+
+    <li><h2>Certificacions Tècniques o Cursos Especialitzats</h2></li>
+    <p>Curs especialitzat en Big Data i Anàlisi de Dades.<p>
+
+    </ol> 
+
+
+
+</body>
+</html>
+
